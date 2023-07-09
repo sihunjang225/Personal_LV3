@@ -27,3 +27,5 @@ module.exports = async (req, res, next) => {
       .json({ errorMessage: "로그인 후에 이용할 수 있는 기능입니다." });
   }
 };
+
+module.exports = loginMiddelware;

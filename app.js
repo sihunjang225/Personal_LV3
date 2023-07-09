@@ -5,8 +5,6 @@ const routes = require("./routes");
 const app = express();
 const port = 3000;
 
-connect();
-
 app.get("/api", (req, res) => {
   res.send("Hello World");
 });
