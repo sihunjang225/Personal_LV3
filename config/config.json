@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "chocoj1123",
-    "password": "-",
-    "database": "express_sequelize_init",
-    "host": "express-database.czxle6g1zlfk.ap-northeast-2.rds.amazonaws.com",
+    "username": "",
+    "password": "",
+    "database": "",
+    "host": "",
     "dialect": "mysql"
   },
   "test": {
